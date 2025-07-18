@@ -1,1 +1,1 @@
-# ai-powered-forgery-detectionry-
+# ai-powered-forgery-detection
